@@ -1,0 +1,12 @@
+{
+  "name": "saas-think-tank",
+  "version": "0.1.0",
+  "description": "SaaS Think Tank publishes independent, evidence-backed research across the SaaS industry. Compare software and see the sources, dates, and limits behind each finding.",
+  "author": {
+    "name": "SaaS Think Tank"
+  },
+  "homepage": "https://saasthinktank.com/",
+  "repository": "https://github.com/koolkat91/saas-think-tank-cursor-plugin",
+  "license": "MIT",
+  "logo": "https://saasthinktank.com/apple-touch-icon.png"
+}
